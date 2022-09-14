@@ -3,10 +3,10 @@
 #!/bin/bash
 
 echo "Welcome"
-echo "Enter 1st number :"
-read first_number 
-echo "Enter 2nd number :"
-read second_number 
+echo "Enter first number :"
+read a
+echo "Enter second number :"
+read b
 
 echo "Enter the operation you want to perform"
 read op 
